@@ -7,14 +7,12 @@
 }
   
 body {
-    margin: 0 5px;
-    padding: 0;
+    margin: 85px 5px;
 }
 
 .calculator {
     text-align: center;
-    margin: 0 auto;
-    padding-top: 90px;
+    margin: 0 auto;    
 }
 
 .calculator-screen {
