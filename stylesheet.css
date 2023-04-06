@@ -7,7 +7,9 @@
 }
   
 body {
-    margin: 85px 5px;
+    margin: 85px 15px;
+    padding: 0;
+    align-items: center;
 }
 
 .calculator {
@@ -31,6 +33,7 @@ body {
 
 .calculator-keys {
     width: 100%;
+    height: auto;
 }
 
 .row {
